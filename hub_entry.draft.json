@@ -1,0 +1,16 @@
+{
+  "id": 35,
+  "script_no": 158,
+  "slug": "no35-codex-video-editing",
+  "title": "Codexで動画編集 導入・確認ガイド",
+  "description": "貼るだけの指示文4本で、準備からカット・字幕・修正まで。",
+  "tags": [
+    "Codex",
+    "動画編集",
+    "SNS"
+  ],
+  "image": "assets/preview-ai-v1/no35.jpg",
+  "image_source": "C:\\ClaudeCode\\present_making\\_deploy\\no35-codex-video-editing\\assets\\eyecatch.jpg",
+  "image_destination": "C:\\ClaudeCode\\present_making\\_deploy\\present-summary-page\\assets\\preview-ai-v1\\no35.jpg",
+  "status": "local_draft_not_registered"
+}
